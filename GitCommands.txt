@@ -64,6 +64,11 @@ git checkout master
 git rebase FirstBranch
 
 
+<---- Git command to Previous version ----->
+Copy the previous version of commit 8 Digit Hexa
+
+git checkout 801234567 revert.txt ["Filename"]
+
 
 
 
