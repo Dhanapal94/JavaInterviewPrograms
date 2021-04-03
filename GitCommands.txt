@@ -70,6 +70,5 @@ Copy the previous version of commit 8 Digit Hexa
 git checkout 801234567 revert.txt ["Filename"]
 
 
-hello there !
 
 
